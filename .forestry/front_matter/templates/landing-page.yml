@@ -61,6 +61,9 @@ fields:
     type: file
     hidden: false
     default: ''
+  - type: text
+    name: href
+    label: Link
   hidden: false
   default: ''
 - type: boolean
